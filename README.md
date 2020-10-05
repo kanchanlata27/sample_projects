@@ -1,1 +1,1 @@
-# sample_projects
+This repository contains the projects on different ML algorithms.
